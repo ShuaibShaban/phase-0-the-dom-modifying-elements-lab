@@ -9,4 +9,4 @@ newHeader.id = "victory"
 
 newHeader.innerHTML ="Shuaib Shaban is the champion"
 
-document.body.prepend(newHeader)
+document.body.append(newHeader)
